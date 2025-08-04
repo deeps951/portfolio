@@ -6,7 +6,7 @@ Welcome to **my little slice of the internet** where music, design, and code col
 - 🏖️ Living on the Gold Coast, Queensland, Australia.
 - 🎷 Saxophonist | 🎸 Bass Guitarist | ✍️ Songwriter.
 - 📸 Passionate Photographer capturing human stories through the lens.
-- 🎨 Designer who blends human-inspired colour palettes into every project.
+- 🎨 Designer who blends Natural Color Palettes into every project.
 - 💻 Web Developer exploring Docker, TailwindCSS, Bootstrap & WordPress.
 
 ## 🛠️ Tech Stack & Tools
@@ -24,5 +24,5 @@ Welcome to **my little slice of the internet** where music, design, and code col
 ## ✨ Fun Facts
 - I drink way too much coffee (and I’m proud of it ☕).
 - I can talk for hours about songwriting and exotic travel spots.
-- My designs always bring a **human touch**—colour theory is my playground.
+- My designs always bring an **organic touch**—colour theory is my playground.
 - I love when my codebase looks as clean as a freshly wiped lens. 📷
