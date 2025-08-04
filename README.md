@@ -1,4 +1,4 @@
-# # 👋 Hi there, I'm Andrew! 
+#  Hi there, I'm Andrew! 
 
 Welcome to **my little slice of the internet** where music, design, and code collide in beautiful chaos. 🎶🎨💻
 
